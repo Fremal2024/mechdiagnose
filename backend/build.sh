@@ -1,6 +1,4 @@
 #!/bin/bash
-# Build script for Render
-
 echo "===== Building Django Backend ====="
 
 # Install dependencies
